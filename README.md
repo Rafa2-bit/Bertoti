@@ -27,4 +27,4 @@ How an organization will need to adapt as it evolves
 Trade-offs and Costs
 How an organization makes decisions, based on the lessons of Time and Change and Scale and Growth
 
-Resumo: 
+Resumo: Um engenheiro de software não apenas programa, mas mantém o código em funcionamento ao longo de sua vida útil e é responsavel por dedicar estratégias que prolonguem e solidifiquem a vida útil do código.
