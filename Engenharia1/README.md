@@ -34,3 +34,7 @@ How an organization makes decisions, based on the lessons of Time and Change and
 - Dados compactados e Dados descompactados: Dados compactados reduz o uso de memória,porém é necessário sempre descompacta-los. Dados descompactados aumenta o uso de memória,mas é mais prático.
 - Tabelas de Busca e re-calculção:  Uma implementação pode incluir uma tabela inteira, que reduz o tempo computacional, mas aumenta a quantidade de memória necessária, ou pode-se computar partes das tabelas, aumentando o tempo, mas reduzindo o custo em memória.
 - Re-renderização e imagens armazenadas:  Solução entre renderizar uma imagem sempre que entrar em uma página gastando mais tempo para carrega-la ou armazenar a imagem na primeira vez que renderizar a página gastando mais memória.
+
+
+#Comentario slide 57:
+- Um clássico exemplo de pensamento ágil e iterativo no desenvolvimento de sistemas é que não adianta construir partes isoladas (como rodas soltas ou um chassi incompleto) se essas partes, por si só, não entregam nenhum valor ao usuário. A grande sacada é: entregar algo funcional desde o início, mesmo que simples. Assim você testa, aprende, ajusta, e evolui com feedback real, e o usuário já começa a se beneficiar cedo do sistema.
