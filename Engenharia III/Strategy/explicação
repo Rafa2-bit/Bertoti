@@ -1,0 +1,2 @@
+Herança em excesso pode gerar cenários onde é necessário duplicar muito código, 
+dificultando a manutenção de código futuramente.
