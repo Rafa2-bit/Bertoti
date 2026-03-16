@@ -1,5 +1,5 @@
 
-public class Main {
+public class MainC2 {
     public static void main(String[] args) {
 
         //Super classe
@@ -29,7 +29,7 @@ public class Main {
                 this.idade = idade;
             }
 
-            //Isso aqui cheira mal (duplicação de código dificultando a manutenção futura)
+
             public boolean Emprestar(){
                 return false;
             }
@@ -46,6 +46,7 @@ public class Main {
             }
 
             //Isso aqui cheira mal (duplicação de código dificultando a manutenção futura)
+            @Override
             public boolean Emprestar(){
                 return false;
             }
@@ -91,4 +92,5 @@ public class Main {
     }
 
 }
+
 

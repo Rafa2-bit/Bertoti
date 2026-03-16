@@ -1,6 +1,5 @@
-package cenario2;
 
-public class Main {
+public class MainC1 {
     public static void main(String[] args) {
 
         //Super classe
@@ -30,11 +29,6 @@ public class Main {
                 this.idade = idade;
             }
 
-            //Isso aqui cheira mal (duplicação de código dificultando a manutenção futura)
-            public boolean Emprestar(){
-                return false;
-            }
-
         }
 
         //Estudante não pode fazer eprestimo
@@ -44,11 +38,6 @@ public class Main {
 
             public Estudante(String nome, String cpf, int idade, int numConta){
                 super(nome, numConta);
-            }
-
-            //Isso aqui cheira mal (duplicação de código dificultando a manutenção futura)
-            public boolean Emprestar(){
-                return false;
             }
 
         }
@@ -92,5 +81,4 @@ public class Main {
     }
 
 }
-
 
