@@ -1,0 +1,2 @@
+Aqui, para tentar não acoplar o Estoque, as classes externas ficam perguntando em um laço infinito se o estoque mudou.
+Isso consome processamento de CPU desnecessário

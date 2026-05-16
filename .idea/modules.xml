@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Bertoti.iml" filepath="$PROJECT_DIR$/.idea/Bertoti.iml" />
       <module fileurl="file://$PROJECT_DIR$/Clube/Clube.iml" filepath="$PROJECT_DIR$/Clube/Clube.iml" />
       <module fileurl="file://$PROJECT_DIR$/Engenharia_III/Engenharia_III.iml" filepath="$PROJECT_DIR$/Engenharia_III/Engenharia_III.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Engenharia_III/Observer/Observer.iml" filepath="$PROJECT_DIR$/Engenharia_III/Observer/Observer.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,2 @@
+Neste cenário, a classe Estoque conhece diretamente as outras classes. 
+Se amanhã precisarmos enviar uma notificação por SMS ou WhatsApp, teremos que modificar a classe Estoque
